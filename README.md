@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Elso Kevinn
 
-<!--
-**elsokevinn/elsokevinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+I'm a passionate developer and tech enthusiast from Indonesia 🇮🇩. I enjoy learning new technologies and building projects that solve real-world problems. I'm currently focusing on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Cybersecurity & Ethical Hacking
+- 🤖 Artificial Intelligence & Machine Learning
+- 📱 Mobile and Web App Development
+- 📊 Data Analysis & Visualization
+
+## 💼 Skills
+Here are some tools and technologies I work with:
+
+- Programming: Python, JavaScript, C/C++, MATLAB
+- Web: HTML, CSS, React, Node.js
+- Mobile: Flutter, Android Studio
+- Cybersecurity: Kali Linux, Metasploit, Wireshark, Burp Suite
+- Tools: Git, GitHub, Docker, VS Code
+
+## 📂 Projects
+Some of my recent projects include:
+
+- 🛡️ **Network Security Lab** – Penetration testing using Metasploit, WinPEAS, etc.
+- 🧠 **AI Chatbot** – Built a chatbot using NLP and Machine Learning
+- 📷 **Image Processing GUI** – MATLAB app to detect shape and color
+- 📈 **Statistical Analysis** – Probabilistic studies using real-world data
+
+Check my repositories for more!
+
+## 📫 How to Reach Me
+- Email: elsokevinn@email.com
+- LinkedIn: [linkedin.com/in/elsokevinn](https://linkedin.com/in/elsokevinn)
+- Instagram: [@elsokevinn](https://instagram.com/elsokevinn)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting! Don't forget to ⭐️ my repos if you find them useful 😊
