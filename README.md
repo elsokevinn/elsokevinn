@@ -30,8 +30,8 @@ Some of my recent projects include:
 Check my repositories for more!
 
 ## 📫 How to Reach Me
-- Email: elsokevinn@email.com
-- LinkedIn: [linkedin.com/in/elsokevinn](https://linkedin.com/in/elsokevinn)
+- Email: elsokevinn@gmail.com
+- LinkedIn: [linkedin.com/in/elsokevinn](https://linkedin.com/in/elsokevin)
 - Instagram: [@elsokevinn](https://instagram.com/elsokevinn)
 
 ---
